@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Aileron;
+    src: url("../fonts/Aileron-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Aileron-Bold;
+    src: url("../fonts/Aileron-Bold.otf") format("opentype");
+}
